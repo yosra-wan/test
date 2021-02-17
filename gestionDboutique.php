@@ -84,5 +84,5 @@ while($produit= mysqli_fetch_assoc($result))
 <a href="#ivraison.php" class="btn btn-primary  mx-5">Ajouter produit</a>
     </div>
 <?php }?>
-
+<p > essai21 </p> 
     </div>
